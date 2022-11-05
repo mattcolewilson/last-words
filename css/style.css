@@ -6,6 +6,12 @@ p {color:#EF432E; font-family: Arial, Helvetica, sans-serif; font-size:11pt; tex
 
 img {display: block; margin-left: auto; margin-right: auto; padding-top:15px;}
 
+hr {
+width: 350px;
+height: 1px;
+background-color: #EF432E;
+border: none;
+}
 
 .button {
   background-color: #EE4529;
